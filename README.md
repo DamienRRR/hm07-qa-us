@@ -47,13 +47,13 @@ Select the hm07-qa-us folder
 
 
 Install dependencies using Git Bash:
-Copynpm install
+Cnpm install
 
 Update config.js with your API URL
 Run tests in Visual Studio Code Terminal:
-Copynpx jest
+npx jest
 Or run specific test files:
-Copynpx jest getHandlers.test.js
+npx jest getHandlers.test.js
 npx jest postHandlers.test.js
 npx jest putHandlers.test.js
 npx jest deleteHandlers.test.js
