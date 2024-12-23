@@ -75,4 +75,4 @@ test('GET /api/v1/kits without cardId should return error message', async () => 
 	}
 	expect(errorData).toHaveProperty('code', 400);
 	expect(errorData).toHaveProperty('message', 'Not all required parameters have been passed');
-});
+}); 

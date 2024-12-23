@@ -63,4 +63,4 @@ test('DELETE /api/v1/kits/:id should return correct error response structure', a
 	}
 	// Check error response structure
 	expect(errorData).toHaveProperty('message');
-});
+}); 

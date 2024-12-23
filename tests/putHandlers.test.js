@@ -75,4 +75,4 @@ test('PUT /api/v1/kits/:id should return 404 for non-existent kit', async () => 
 	} catch (error) {
 		console.error('Error test error:', error);
 	}
-});
+}); 
