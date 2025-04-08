@@ -1,4 +1,4 @@
-# Sprint 7 project
+# Urban Grocers API Testing Project 
 
 Urban Grocers API Testing Project
 Project Description
